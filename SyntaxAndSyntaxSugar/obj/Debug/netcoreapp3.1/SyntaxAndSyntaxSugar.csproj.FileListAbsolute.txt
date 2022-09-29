@@ -1,0 +1,14 @@
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.exe
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.deps.json
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.runtimeconfig.json
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.runtimeconfig.dev.json
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.dll
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.pdb
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.AssemblyInfo.cs
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.dll
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.pdb
+C:\Users\jmiza\Desktop\repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugar.genruntimeconfig.cache
